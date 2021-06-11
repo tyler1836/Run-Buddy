@@ -158,6 +158,9 @@ footer a{
 .steps span{
     font-size: 38px;
 }
+.trainers{
+    text-align: center;
+}
 .trainer {
     text-align: center;
     width: 900px;
