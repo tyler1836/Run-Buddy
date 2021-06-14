@@ -14,3 +14,4 @@ https://tyler1836.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [tyler]
+### ©️2019 Run Buddy, Inc
