@@ -1,4 +1,4 @@
-# Run-Buddy Inc.
+# Run-Buddy, Inc
 Run buddy first project
 # Run Buddy
 
